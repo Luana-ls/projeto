@@ -9,19 +9,19 @@ Este projeto é um sistema de gerenciamento de tarefas simples, projetado para a
 
 1. Clone o repositório para o seu computador:
 
- ``
+```
 https://github.com/Luana-ls/projeto.git
 
- ``
+```
 
 2. Navegue até o diretório do projeto
 
 3. Instale as dependências do projeto
 
-``
+```
 npm install
 
-``
+```
 
 ## Como usar:
 
@@ -29,9 +29,10 @@ npm install
 
 2. Abra o navegador e acesse o seguinte URL:
 
-``
+```
 http://localhost:3000
-``
+
+```
 3. Você será redirecionado para a página de login. Faça login com suas credenciais ou crie uma nova conta.
 
 ## Contribuição
